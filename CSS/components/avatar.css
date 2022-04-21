@@ -1,0 +1,42 @@
+.avatar{
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+	display: flex;
+    margin-bottom: 0px;
+    border: 3px solid black;
+    
+
+
+
+}
+
+.avatars{
+	
+	margin-bottom: 100px;
+	overflow:hidden;
+	margin-left: 130px;
+
+}
+    
+.constantin{
+	float: left;
+	
+}
+
+.albane{
+	float: left;
+	margin-left: 90px;
+}
+.tino{
+	float: left;
+	margin-left: 90px;
+}
+.thomas{
+	float: left;
+	margin-left: 90px;
+}
+
+.deco{
+
+}

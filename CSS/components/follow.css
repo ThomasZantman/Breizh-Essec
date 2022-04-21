@@ -1,0 +1,36 @@
+.follow{
+
+	text-align: justify;
+	width: 900px;
+	border-radius: 10px;
+	border: 5px solid black;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 25px;
+	margin-top: 60px;
+	
+}
+
+.liste {
+	list-style: none;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+
+
+}
+.liste li{
+	 display: inline;
+	 padding: 10px;
+}
+.liste i {
+	align-items: center;
+	font-size: 40px;
+	color: #00ACEE;
+}
+
